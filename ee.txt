@@ -1,0 +1,15 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 5480-9822
+
+ R‚pertoire de C:\Users\Skan-\eclipse-workspace\surface
+
+31/03/2022  16:37    <DIR>          .
+31/03/2022  16:37    <DIR>          ..
+29/01/2021  23:17               396 .classpath
+29/01/2021  23:17               383 .project
+29/01/2021  23:17    <DIR>          .settings
+28/02/2021  21:15    <DIR>          bin
+31/03/2022  16:37                 0 ee.txt
+31/03/2022  16:26    <DIR>          src
+               3 fichier(s)              779 octets
+               5 R‚p(s)  24ÿ167ÿ567ÿ360 octets libres
